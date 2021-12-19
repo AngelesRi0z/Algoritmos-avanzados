@@ -34,7 +34,6 @@ function printOutString() {
 }
 printOutString();
 
-
  //Ejercicio 2
  /* Escribe una función que:
 Toma una serie de números.
@@ -43,9 +42,8 @@ Imprime la nueva matriz actualizada.
 Ejemplo: dada una matriz [1, 2, 4, 5]. La salida debe ser[2, 4, 8, 10]*/
 
 let serie=[1,2,4,5];
-
-
-
+var multiplicacion=serie.map(x => x*2); /*El map()método crea una nueva matriz poblada con los resultados de llamar a una función proporcionada en cada elemento de la matriz de llamada.*/
+console.log(multiplicacion);
 
 //Ejercicio # 3
 /*Escriba un programa para calcular la suma y el producto (multiplicación) de una matriz de números. Imprime la suma y el producto.
