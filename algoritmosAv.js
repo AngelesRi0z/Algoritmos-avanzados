@@ -1,3 +1,4 @@
+
 // Ejercicio 1
 const numeros =[3,5,7,1,6];                        //Declaracion del arreglo
 console.log("Los numeros ingresados son "+numeros);   //Se muestra en consola los elementos de los arreglos
