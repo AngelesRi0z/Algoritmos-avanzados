@@ -32,7 +32,6 @@ function printOutString() {
 }
 printOutString();
 
-
  //Ejercicio 2
  /* Escribe una función que:
 Toma una serie de números.
